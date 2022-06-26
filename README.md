@@ -20,7 +20,7 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1.	The trend in successful and failed theater campaigns throughout the year are similar. 
 2.	Theater campaigns tend to be more successful during the summer months.
@@ -28,12 +28,12 @@
 - What can you conclude about the Outcomes based on Goals?
 * Based on Goals, no plays were canceled. Also, a higher number of plays were most successful with goals below $4999. 
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 * The data set treats all currency as equal. We consider a $1 in USD equal to Euro etc. when analyzing our data, there is no calibration.
 * The data set used was very specific. There need to be more steps and analysis to reach a true conclusion. We only investigated “plays” and “theater” subcategories.
 * The data set should separate the months into specific years.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 * The Outcomes based on Launch Date would be more helpful if shown in percentage of successful, failed, and canceled. Additionally, it would be interesting to see how other subcategories compare to theater and if the trend in launch date differs for others. Compare just the month of May against the subcategories. 
 * Based on Launch Date, it seems theater genres do better in the summer months. However, these months may not be “warmer” typical summer months everywhere. It would be interesting to see specifically where these months do best. Add an additional filter to the pivot table for country.
 * Compare success of launch date by months within a specific year. 
