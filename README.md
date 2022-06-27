@@ -25,7 +25,7 @@
 1.	The trend in successful and failed theater campaigns throughout the year are similar. 
 2.	Theater campaigns tend to be more successful during the summer months.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 * Based on Goals, no plays were canceled. Also, a higher number of plays were most successful with goals below $4999. 
 
 ### What are some limitations of this dataset?
